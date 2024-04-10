@@ -12,7 +12,7 @@ I started out as an iOS Developer back in 2014 and gradually fell in love with W
 
 
 ## Projects:
-* ✨ [Bubble Queen- Cleaning Services](https://www.bubblequeen.in/) - Laundry and Cleaning Services Website with AdminDashboard supproting multiple locations
+* ✨ [Bubble Queen - Cleaning Services](https://www.bubblequeen.in/) - Laundry and Cleaning Services Website with AdminDashboard supproting multiple locations
 * 🧶 [Unpurl](https://unpurl.com/) - E-commerce website for Hand Knitting and Crochet Products
 * ✈️ [GIC- Travel Portal](https://greatindiacaravan.com/) - Travel portal with Admin Dashboard
 * 🏡 [QuickBrix - Real Estate Bookings ](https://quickbrix.com/) - Real Estate Management Website with Admin Dashboard
