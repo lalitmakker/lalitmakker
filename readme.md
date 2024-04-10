@@ -3,7 +3,7 @@ Hello 👋  I'm a Full Stack Web Developer ( Django and Node ) & Founder @[BOXL 
 I started out as an iOS Developer back in 2014 and gradually fell in love with Web Dev as well.
 
 
-Framework of Choice : Django
+### Framework of Choice : Django
 
 ## Currently working on
 * 🎓 [TestAcademy](https://testacademy.net) - Online Testing Platform for Students and Teachers
@@ -16,4 +16,4 @@ Framework of Choice : Django
 * ✨ [Bubble Queen- Cleaning Services](https://www.bubblequeen.in/) - Laundry and Cleaning Services Website with AdminDashboard supproting multiple locations
 * 🧶 [Unpurl](https://unpurl.com/) - E-commerce website for Hand Knitting and Crochet Products
 * ✈️ [GIC- Travel Portal](https://greatindiacaravan.com/) - Travel portal with Admin Dashboard
-* 🧶 [Lumiere by Imperial](https://lumierebyimperial.com/) - E-commerce website for Luxury Lightings
+* 💡 [Lumiere by Imperial](https://lumierebyimperial.com/) - E-commerce website for Luxury Lightings
