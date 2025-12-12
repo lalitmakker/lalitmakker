@@ -6,7 +6,7 @@ I started out as an iOS Developer back in 2014 and gradually fell in love with W
 ### Framework of Choice : Django
 
 ## Currently working on
-* 🎓 [TestAcademy](https://testacademy.net) - Online Testing Platform for Students and Teachers
+* 🎓 [CREY](https://crey.in/) - Online Testing Platform for Students and Teachers (Formerly TestAcademy)
 * 🌐 [lalitmakker.com](https://lalitmakker.com) - Personal website with brief intro and the list of books i am currently reading 
 * 💪 [AI Healthcare] - Physiotherapy and Rehabilitation based on Google's Mediapipe framework and LLMs
 
