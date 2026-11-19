@@ -16,6 +16,7 @@ I started out as an iOS Developer back in 2014, freelanced as a full stack devel
 * ™️ Taj Trademark: React Native app for a trademark services firm, live on the App Store and Google Play
 * 🌍 [Zevor Workforce](https://zevorworkforce.com/): Website for a global workforce solutions company
 * 🎨 [BP Industries (Bajrang Paints)](https://www.bajrangpaints.com/): Website for an ISO certified manufacturer of industrial coatings, heat resistant finishes and epoxy flooring
+* 🧠 [BodyMind Therapy](https://bodymindtherapy.in/): Integrative therapy and wellness platform where clients can book sessions with licensed professionals
 * ⏱️ Biometric Attendance Sync: Python agent that syncs eSSL biometric attendance data to a Django portal using HMAC signed requests
 * 🏛️ Monarc Web Portal: Web portal built with Django and Postgres
 * 🍬 [Bullion Dizzle](https://bulliondizzle.com/): E-Commerce store for mouth fresheners and gifting, with a custom gift box builder and cash on delivery
