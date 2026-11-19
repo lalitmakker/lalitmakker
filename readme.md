@@ -1,19 +1,21 @@
-Hello 👋  I'm a Full Stack Web Developer ( Django and Node ) & Founder @[BOXL Technologies](https://www.boxl.tech).
+Hello 👋 I'm Lalit Makker, Founder & Director of [BOXL Technologies](https://www.boxl.tech) and [Combe Labs](https://www.linkedin.com/company/combe-labs/), where we're building [Mindyard](https://mindyard.in).
 
-I started out as an iOS Developer back in 2014 and gradually fell in love with Web Dev as well.
+I started out as an iOS Developer back in 2014, freelanced as a full stack developer for five years, and founded BOXL in 2022. Today I build web, mobile and AI products with Django, Node and React Native.
 
-
-### Framework of Choice : Django
+### Framework of Choice: Django
 
 ## Currently working on
-* 🎓 [CREY](https://crey.in/) - Online Testing Platform for Students and Teachers (Formerly TestAcademy)
-* 🌐 [lalitmakker.com](https://lalitmakker.com) - Personal website with brief intro and the list of books i am currently reading 
-* 💪 [AI Healthcare] - Physiotherapy and Rehabilitation based on Google's Mediapipe framework and LLMs
+* 🎓 [Mindyard](https://mindyard.in) (formerly CREY): AI powered assessment platform with an AI Tutor, adaptive study roadmaps, live AI proctoring and analytics for students, educators and businesses
+* 🏢 [BOXL Technologies](https://www.boxl.tech): Software development studio building custom web, mobile and enterprise solutions
+* 🌐 [lalitmakker.com](https://lalitmakker.com): Personal website with a brief intro and the list of books I am currently reading
+* 💪 AI Healthcare: Physiotherapy and rehabilitation based on Google's MediaPipe framework and LLMs
 
+## Projects
+* ✈️ [Dream Shades](https://shopdreamshades.com): Skincare & Beauty E-Commerce
+* ✨ [Bubble Queen Cleaning Services](https://www.bubblequeen.in/): Laundry and cleaning services website with an admin dashboard supporting multiple locations
+* 🧶 [Unpurl](https://unpurl.com/): E-Commerce website for hand knitting and crochet products
+* ✈️ [GIC Travel Portal](https://greatindiacaravan.com/): Travel portal with an admin dashboard
+* 💡 [Lumiere by Imperial](https://lumierebyimperial.com/): E-Commerce website for luxury lighting
 
-## Projects:
-* ✈️ [Dream Shades](https://shopdreamshades.com) - Skincare & Beauty E-Comnmerce
-* ✨ [Bubble Queen - Cleaning Services](https://www.bubblequeen.in/) - Laundry and Cleaning Services Website with AdminDashboard supproting multiple locations
-* 🧶 [Unpurl](https://unpurl.com/) - E-commerce website for Hand Knitting and Crochet Products
-* ✈️ [GIC- Travel Portal](https://greatindiacaravan.com/) - Travel portal with Admin Dashboard
-* 💡 [Lumiere by Imperial](https://lumierebyimperial.com/) - E-commerce website for Luxury Lightings
+## Connect
+[LinkedIn](https://www.linkedin.com/in/lalitmakker/) · [Website](https://lalitmakker.com) · [BOXL](https://www.boxl.tech) · [Mindyard](https://mindyard.in)
