@@ -11,6 +11,12 @@ I started out as an iOS Developer back in 2014, freelanced as a full stack devel
 * 💪 AI Healthcare: Physiotherapy and rehabilitation based on Google's MediaPipe framework and LLMs
 
 ## Projects
+* 📦 [iTrack SCM](https://itrackscm.com): Website for a retail supply chain and inventory planning SaaS platform
+* 🧾 Cnergy Expense Claims: Django expense claims portal with OCR powered duplicate bill detection (Celery, Redis, Postgres), plus a React Native mobile app, for a surgical and medical instruments company
+* ™️ Taj Trademark: React Native app for a trademark services firm, live on the App Store and Google Play
+* 🌍 [Zevor Workforce](https://zevorworkforce.com/): Website for a global workforce solutions company
+* ⏱️ Biometric Attendance Sync: Python agent that syncs eSSL biometric attendance data to a Django portal using HMAC signed requests
+* 🏛️ Monarc Web Portal: Web portal built with Django and Postgres
 * ✈️ [Dream Shades](https://shopdreamshades.com): Skincare & Beauty E-Commerce
 * ✨ [Bubble Queen Cleaning Services](https://www.bubblequeen.in/): Laundry and cleaning services website with an admin dashboard supporting multiple locations
 * 🧶 [Unpurl](https://unpurl.com/): E-Commerce website for hand knitting and crochet products
